@@ -1,0 +1,1 @@
+{"kid": "root1", "alg": "ed25519", "sig": "22DBtXbVa1q6eaij23mjS5Vj1PotSYzMRIlfqwx03zuQKHkclAa9TbrfokN6s/yYrEfzyCp60Kc6VAacJG2KAg=="}
